@@ -1,0 +1,8 @@
+prefix=/home/ros2/ws/devel
+
+Name: shredder_nav
+Description: Description of shredder_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ros2/ws/devel/lib 
+Requires: 

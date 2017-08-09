@@ -1,0 +1,8 @@
+prefix=/home/ros2/ws/devel
+
+Name: sim
+Description: Description of sim
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ros2/ws/devel/lib 
+Requires: 
